@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+      "@google-cloud/functions-framework": "^3.0.0",
+      "request": "^2.81.0",
+      "@google-cloud/datastore": "^8.5.0"
+    }
+  }
+  
